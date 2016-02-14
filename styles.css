@@ -154,6 +154,7 @@ h2 {
 #word-cycle {
 	height: 72px;
 	width: 400px;
+	top: -11px;
 }
 
 #word-cycle span {
@@ -367,7 +368,7 @@ img {
 }
 
 img.projectSlide {
-	max-width: 50%;
+	max-width: 70%;
 	margin-top: 40px;
 }
 
@@ -528,7 +529,7 @@ li {
 
 
 #bodyContainer {
-	margin-top: 23em;
+	margin-top: 30em;
 }
 
 img.projectSlide {
@@ -560,6 +561,7 @@ img.projectSlide {
 #word-cycle {
 	height: 50px;
 	width: 275px;
+	top: auto;
 }
 
 
