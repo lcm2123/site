@@ -416,6 +416,10 @@ img.projectSlide {
 	padding-bottom: 200px;
 }
 
+#contactSection .bodytext a {
+	font-weight: normal;
+}
+
 #copyright {
 	font-family: 'Noto Sans', sans serif;
 	font-size: 11px;
