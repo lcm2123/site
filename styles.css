@@ -189,16 +189,16 @@ animation-duration: 24s;
 }
 
 
-#cf img:nth-of-type(1) {
+#cf img:nth-of-type(2) {
   animation-delay: 18s;
 }
-#cf img:nth-of-type(2) {
+#cf img:nth-of-type(3) {
   animation-delay: 12s;
 }
-#cf img:nth-of-type(3) {
+#cf img:nth-of-type(4) {
   animation-delay: 6s;
 }
-#cf img:nth-of-type(4) {
+#cf img:nth-of-type(5) {
   animation-delay: 0;
 }
 
