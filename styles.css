@@ -124,7 +124,7 @@ h2 {
 	margin-top: 1.6em;
 	margin-bottom: 2.5em;
 	padding: 0.5em;
-	font-size: 1.4em;
+	font-size: 1.6em;
 	font-family: 'Roboto', sans-serif;
 	text-align: left;
 	margin-left: 10px;
@@ -278,6 +278,7 @@ animation-duration: 24s;
 	text-align: justify;
 	float: left;
 	margin-top: 10px;
+	line-height: 1.4em;
 }
 
 .description h2 {
@@ -573,7 +574,7 @@ img.projectSlide {
 }
 
 /* LEVEL 3  */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1064px) {
 
 .menu {
 	font-size: 1.5em;
@@ -620,7 +621,7 @@ img.projectSlide {
 
 }
 /* LEVEL 4  */
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 587px) {
 
 #backdrop img{
 	margin-left: -195px;
